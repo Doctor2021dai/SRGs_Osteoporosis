@@ -1,2 +1,3 @@
 # SRGs_Osteoporosis
-Identification and Validation of the Cellular Senescence-Associated Molecular Pattern and Diagnostic Markers for Osteoporosis
+## Identification and Validation of the Cellular Senescence-Associated Molecular Pattern and Diagnostic Markers for Osteoporosis
+Two datasets were obtained from the Gene Expression Omnibus (GEO) to identify differentially expressed genes (DEGs) and selected the cellular senescence-related genes (SRGs). Consensus clustering analysis was performed based on differentially expressed SRGs (DE-SRGs). The functional enrichment and immune features between cellular senescence-related clusters were explored. Moreover, two machine learning algorithms were conducted to select the candidate biomarkers for osteoporotic diagnosis. Fifty-four clinical samples were collected and used to validate the expression levels of diagnostic biomarkers using qPCR. 
