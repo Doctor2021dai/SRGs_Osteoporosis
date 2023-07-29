@@ -1,0 +1,30 @@
+IL1A	Cytokines
+IL1B	Cytokines
+IL6	Cytokines
+IL15	Cytokines
+CCL3	Chemokines
+CCL8	Chemokines
+CCL11	Chemokines
+CCL20	Chemokines
+CCL26	Chemokines
+CXCL1	Chemokines
+CXCL5	Chemokines
+CXCL8	Chemokines
+CXCL11	Chemokines
+AREG	Growth and regulatory factors
+EREG	Growth and regulatory factors
+IGFBP3	Growth and regulatory factors
+PIGF	Growth and regulatory factors
+VEGFA	Growth and regulatory factors
+CTSB	Proteases and regulators
+MMP1	Proteases and regulators
+MMP3	Proteases and regulators
+MMP10	Proteases and regulators
+MMP12	Proteases and regulators
+MMP14	Proteases and regulators
+PLAU	Proteases and regulators
+SERPINE1	Proteases and regulators
+TIMP2	Proteases and regulators
+PLAUR	Receptors and ligands
+TNFRSF1A	Receptors and ligands
+TNFRSF11B	Receptors and ligands
