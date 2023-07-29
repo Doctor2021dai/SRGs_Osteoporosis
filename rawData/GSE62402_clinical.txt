@@ -1,0 +1,11 @@
+title	geo_accession	source_name_ch1	supplementary_file
+Human Female high BMD_1	GSM1526572	Healthy female_high_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526572/suppl/GSM1526572_120529-10878B_G1_HuEx-1_0-st-v2_.CEL.gz
+Human Female high BMD_2	GSM1526573	Healthy female_high_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526573/suppl/GSM1526573_120529-10878B_G3_HuEx-1_0-st-v2_.CEL.gz
+Human Female high BMD_3	GSM1526574	Healthy female_high_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526574/suppl/GSM1526574_120529-10878B_G5_HuEx-1_0-st-v2_.CEL.gz
+Human Female high BMD_4	GSM1526575	Healthy female_high_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526575/suppl/GSM1526575_120529-10878A_G6_HuEx-1_0-st-v2_.CEL.gz
+Human Female high BMD_5	GSM1526576	Healthy female_high_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526576/suppl/GSM1526576_120529-10878D_G7_HuEx-1_0-st-v2_.CEL.gz
+Human Female low BMD_1	GSM1526577	Healthy female_low_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526577/suppl/GSM1526577_120529-10878B_D1_HuEx-1_0-st-v2_.CEL.gz
+Human Female low BMD_2	GSM1526578	Healthy female_low_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526578/suppl/GSM1526578_120529-10878B_D4_HuEx-1_0-st-v2_.CEL.gz
+Human Female low BMD_3	GSM1526579	Healthy female_low_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526579/suppl/GSM1526579_120529-10878B_D6_HuEx-1_0-st-v2_.CEL.gz
+Human Female low BMD_4	GSM1526580	Healthy female_low_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526580/suppl/GSM1526580_120529-10878B_D8_HuEx-1_0-st-v2_.CEL.gz
+Human Female low BMD_5	GSM1526581	Healthy female_low_BMD	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1526nnn/GSM1526581/suppl/GSM1526581_120529-10878D_D9_HuEx-1_0-st-v2_.CEL.gz
